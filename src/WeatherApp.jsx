@@ -2,8 +2,7 @@ import "./WeatherApp.css";
 import SearchBox from "./SearchBox";
 import InfoBox from "./InfoBox";
 import { useEffect, useState } from "react";
-// const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-// const API_KEY = "cad36af5fe09010edaedab5a551488bb";
+
 const API_URL = import.meta.env.VITE_API_URL;
 const API_KEY = import.meta.env.VITE_API_KEY;
 

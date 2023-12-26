@@ -16,9 +16,9 @@ This is a simple Weather App built with React that allows users to get weather i
 - Material-UI
 - OpenWeatherMap API
 
-## Installation
+## Website link
 
-1. Clone the repository:
+1. Live website:
 
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+  
+   Netlify live  https://658a562930feee599b9258b1--cute-salmiakki-90fa8d.netlify.app/
