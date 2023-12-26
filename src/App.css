@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+  /* border: 1px solid black; */
+}
+.App-container{
+  padding: 0.5rem 2rem 2rem 2rem;
+background-color: rgb(255 255 255 / 0.3);
+backdrop-filter: blur(10px);
+
+}
+body{
+  /* background-image: url(https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+ 
+ background-image: url(https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ;
+  background-size: cover;
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+}
+
+
+@media (max-width: 800px) {
+  #root{
+     padding: 2rem;
+     max-width: auto;
+  }
+}
