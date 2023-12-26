@@ -1,5 +1,8 @@
 # Weather App
 
+![Screenshot ](./src/assets/site%20preview.jpeg)
+
+
 ## Overview
 
 This is a simple Weather App built with React that allows users to get weather information for a specific city.
@@ -16,9 +19,6 @@ This is a simple Weather App built with React that allows users to get weather i
 - Material-UI
 - OpenWeatherMap API
 
-## Website link
+## Links
 
-1. Live website:
-
-  
-   Netlify live  https://658a562930feee599b9258b1--cute-salmiakki-90fa8d.netlify.app/
+Live Site URL: Netlify Live URL(https://weather-widget-90fa8d.netlify.app/)
